@@ -18,6 +18,7 @@ export default function Footer() {
             <Link to="/" className="text-gray-600 hover:text-blue-600 transition-colors">Blog</Link>
             <Link to="/privacy" className="text-gray-600 hover:text-blue-600 transition-colors">Privacy Policy</Link>
             <Link to="/terms" className="text-gray-600 hover:text-blue-600 transition-colors">Terms of Service</Link>
+            <Link to="/eula" className="text-gray-600 hover:text-blue-600 transition-colors">EULA</Link>
           </nav>
           <p className="text-gray-600 text-center">© 2026 Emberlight AI. All rights reserved.</p>
         </div>
